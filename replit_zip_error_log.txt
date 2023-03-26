@@ -1,0 +1,13 @@
+{"error":"open /home/runner/Laravel-On-Replit/src/rr: permission denied","level":"error","msg":"unable to write file src/rr","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/carbon","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/patch-type-declarations","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/php-parse","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/phpunit","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/psysh","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/roadrunner-worker","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/rr","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/sail","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/swoole-server","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/var-dump-server","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file src/vendor/bin/yaml-lint","time":"2023-03-23T22:05:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file system/mariadb/mysqld.sock","time":"2023-03-23T22:05:45Z"}
